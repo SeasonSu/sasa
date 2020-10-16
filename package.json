@@ -25,5 +25,10 @@
   "homepage": "https://github.com/SeasonSu/sasa#readme",
   "devDependencies": {
     "lerna": "^3.22.1"
+  },
+  "dependencies": {
+    "aa": "file:packages/aa",
+    "sea": "file:packages/sea",
+    "test": "file:packages/test"
   }
 }
