@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "fs": "0.0.1-security"
-  }
+  },
+  "gitHead": "ffd212bd3fad71af7b82ef53485602716f855df9"
 }
