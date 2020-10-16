@@ -1,0 +1,29 @@
+{
+  "name": "sea",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Seas0n <459705913@qq.com>",
+  "homepage": "https://github.com/SeasonSu/sasa/tree/master/packages/sea#readme",
+  "license": "ISC",
+  "main": "lib/sea.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeasonSu/sasa.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/SeasonSu/sasa/issues"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
